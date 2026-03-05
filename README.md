@@ -42,3 +42,5 @@
 
 Open to **full-time opportunities** in AI/ML engineering and research.  
 Say hi: **brgolani@umich.edu** or [LinkedIn](https://www.linkedin.com/in/bhushan-golani-4a5a51187/).
+
+<!-- Profile README: repo name must match username exactly. This README appears on github.com/bhushangolani -->
