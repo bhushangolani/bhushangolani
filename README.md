@@ -1,6 +1,6 @@
 # Hi, I'm Bhushan Golani
 
-**AI Research Engineer** · ex-Amazon SDE · MS Data Science @ [University of Michigan](https://umich.edu)
+**Graduate Software Intern at Rivian* · ex-Amazon SDE · MS Data Science @ [University of Michigan](https://umich.edu)
 
 ---
 
@@ -8,8 +8,8 @@
 
 - 🔬 **Research** — Building multi-agent AI platforms & RAG systems at UMich (Prof. Scott Pletcher)
 - 🏢 **Previously** — Software Developer at **Amazon** (Alexa Sensitive Content Intelligence), 2+ years
-- 🎓 **Background** — B.Tech & M.Tech from **IIT Kharagpur** (Mechanical Eng., Minor in CS)
-- 🔭 **Interests** — NLP, LLMs, ML systems, scalable backend (AWS, Java, Python)
+- 🎓 **Background** — B.Tech & M.Tech from **IIT Kharagpur** (Minor in CS)
+- 🔭 **Interests** — Scalable backend (AWS, Java, Python), Agentic AI
 - 📍 **Location** — Ann Arbor, MI
 
 ---
@@ -40,7 +40,7 @@
 
 ### Reach out
 
-Open to **full-time opportunities** in AI/ML engineering and research.  
+Open to **full-time opportunities** in Backend Engineering and Agentic AI.  
 Say hi: **brgolani@umich.edu** or [LinkedIn](https://www.linkedin.com/in/bhushan-golani-4a5a51187/).
 
 <!-- Profile README: repo name must match username exactly. This README appears on github.com/bhushangolani -->
